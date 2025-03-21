@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus trunk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-21 15:23+0200\n"
+"POT-Creation-Date: 2025-03-17 15:33-0700\n"
 "PO-Revision-Date: 2007-07-08 00:00+0900\n"
 "Last-Translator: Takeshi AIHANA <takeshi.aihana@gmail.com>\n"
 "Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
@@ -16,6 +16,62 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: ../desktop-directories/ActionGames.directory.in.h:1
+msgid "Action"
+msgstr "アクション"
+
+#: ../desktop-directories/ActionGames.directory.in.h:2
+msgid "Action games"
+msgstr "アクションゲーム"
+
+#: ../desktop-directories/AdventureGames.directory.in.h:1
+msgid "Adventure"
+msgstr "アドベンチャー"
+
+#: ../desktop-directories/AdventureGames.directory.in.h:2
+msgid "Adventure style games"
+msgstr "アドベンチャー系ゲーム"
+
+#: ../desktop-directories/ArcadeGames.directory.in.h:1
+msgid "Arcade"
+msgstr "アーケード"
+
+#: ../desktop-directories/ArcadeGames.directory.in.h:2
+msgid "Arcade style games"
+msgstr "アーケードスタイルゲーム"
+
+#: ../desktop-directories/BoardGames.directory.in.h:1
+msgid "Board"
+msgstr "ボード"
+
+#: ../desktop-directories/BoardGames.directory.in.h:2
+msgid "Board games"
+msgstr "ボードゲーム"
+
+#: ../desktop-directories/CardGames.directory.in.h:1
+msgid "Cards"
+msgstr "カード"
+
+#: ../desktop-directories/CardGames.directory.in.h:2
+msgid "Card games"
+msgstr "カードゲーム"
+
+#: ../desktop-directories/KidsGames.directory.in.h:1
+msgid "Kids"
+msgstr "子供"
+
+#: ../desktop-directories/KidsGames.directory.in.h:2
+msgid "Games for kids"
+msgstr "子供向けゲーム"
+
+#: ../desktop-directories/LogicGames.directory.in.h:1
+msgid "Logic"
+msgstr "論理"
+
+#: ../desktop-directories/LogicGames.directory.in.h:2
+msgid "Logic and puzzle games"
+msgstr "論理パズルゲーム"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 #, fuzzy
@@ -52,6 +108,7 @@ msgid "Games"
 msgstr "ゲーム"
 
 #: ../desktop-directories/lxde-game.directory.in.h:2
+#: ../desktop-directories/X-UnsortedGames.directory.in.h:2
 msgid "Games and amusements"
 msgstr "気晴しにゲームをどうぞ"
 
@@ -203,6 +260,43 @@ msgstr "アクセサリ"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "デスクトップ用のアクセサリーです"
+
+#: ../desktop-directories/RolePlayingGames.directory.in.h:1
+msgid "Role playing"
+msgstr "ロールプレイング"
+
+#: ../desktop-directories/RolePlayingGames.directory.in.h:2
+msgid "Role playing games"
+msgstr "ロールプレイングゲーム"
+
+#: ../desktop-directories/SimulationGames.directory.in.h:1
+msgid "Simulation"
+msgstr "シミュレーション"
+
+#: ../desktop-directories/SimulationGames.directory.in.h:2
+msgid "Simulation games"
+msgstr "シミュレーションゲーム"
+
+#: ../desktop-directories/SportsGames.directory.in.h:1
+msgid "Sports"
+msgstr "スポーツ"
+
+#: ../desktop-directories/SportsGames.directory.in.h:2
+msgid "Sports games"
+msgstr "スポーツゲーム"
+
+#: ../desktop-directories/StrategyGames.directory.in.h:1
+msgid "Strategy"
+msgstr "戦略"
+
+#: ../desktop-directories/StrategyGames.directory.in.h:2
+msgid "Strategy games"
+msgstr "戦略ゲーム"
+
+#: ../desktop-directories/X-UnsortedGames.directory.in.h:1
+#, fuzzy
+msgid "Unsorted Games"
+msgstr "未分類ゲーム"
 
 #~ msgid "Sound & Video"
 #~ msgstr "サウンドとビデオ"

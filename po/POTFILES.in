@@ -1,5 +1,12 @@
 # List of source files containing translatable strings.
 # Please keep this file sorted alphabetically.
+desktop-directories/ActionGames.directory.in
+desktop-directories/AdventureGames.directory.in
+desktop-directories/ArcadeGames.directory.in
+desktop-directories/BoardGames.directory.in
+desktop-directories/CardGames.directory.in
+desktop-directories/KidsGames.directory.in
+desktop-directories/LogicGames.directory.in
 desktop-directories/lxde-audio-video.directory.in
 desktop-directories/lxde-development.directory.in
 desktop-directories/lxde-education.directory.in
@@ -21,3 +28,8 @@ desktop-directories/lxde-settings-system.directory.in
 desktop-directories/lxde-system.directory.in
 desktop-directories/lxde-utility-accessibility.directory.in
 desktop-directories/lxde-utility.directory.in
+desktop-directories/RolePlayingGames.directory.in
+desktop-directories/SimulationGames.directory.in
+desktop-directories/SportsGames.directory.in
+desktop-directories/StrategyGames.directory.in
+desktop-directories/X-UnsortedGames.directory.in

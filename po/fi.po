@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-21 15:23+0200\n"
+"POT-Creation-Date: 2025-03-17 15:33-0700\n"
 "PO-Revision-Date: 2007-02-12 20:26+0300\n"
 "Last-Translator: Ilkka Tuohela <hile@iki.fi>\n"
 "Language-Team: Finnish <gnome-fi-laatu@lists.sourceforge.net>\n"
@@ -17,6 +17,62 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../desktop-directories/ActionGames.directory.in.h:1
+msgid "Action"
+msgstr "Toiminta"
+
+#: ../desktop-directories/ActionGames.directory.in.h:2
+msgid "Action games"
+msgstr "Toimintapelit"
+
+#: ../desktop-directories/AdventureGames.directory.in.h:1
+msgid "Adventure"
+msgstr "Seikkailu"
+
+#: ../desktop-directories/AdventureGames.directory.in.h:2
+msgid "Adventure style games"
+msgstr "Seikkailutyylisiä pelejä"
+
+#: ../desktop-directories/ArcadeGames.directory.in.h:1
+msgid "Arcade"
+msgstr "Arkadi"
+
+#: ../desktop-directories/ArcadeGames.directory.in.h:2
+msgid "Arcade style games"
+msgstr "Arkadipelit"
+
+#: ../desktop-directories/BoardGames.directory.in.h:1
+msgid "Board"
+msgstr "hallitus"
+
+#: ../desktop-directories/BoardGames.directory.in.h:2
+msgid "Board games"
+msgstr "Lautapelit"
+
+#: ../desktop-directories/CardGames.directory.in.h:1
+msgid "Cards"
+msgstr "Kortit"
+
+#: ../desktop-directories/CardGames.directory.in.h:2
+msgid "Card games"
+msgstr "Korttipelit"
+
+#: ../desktop-directories/KidsGames.directory.in.h:1
+msgid "Kids"
+msgstr "Lapset"
+
+#: ../desktop-directories/KidsGames.directory.in.h:2
+msgid "Games for kids"
+msgstr "Pelit lapsille"
+
+#: ../desktop-directories/LogicGames.directory.in.h:1
+msgid "Logic"
+msgstr "Logiikka"
+
+#: ../desktop-directories/LogicGames.directory.in.h:2
+msgid "Logic and puzzle games"
+msgstr "Logiikka- ja pulmapelit"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 #, fuzzy
@@ -53,6 +109,7 @@ msgid "Games"
 msgstr "Pelit"
 
 #: ../desktop-directories/lxde-game.directory.in.h:2
+#: ../desktop-directories/X-UnsortedGames.directory.in.h:2
 msgid "Games and amusements"
 msgstr "Pelit ja viihde"
 
@@ -204,6 +261,43 @@ msgstr "Apuohjelmat"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Työpöydän apuohjelmat"
+
+#: ../desktop-directories/RolePlayingGames.directory.in.h:1
+msgid "Role playing"
+msgstr "Roolileikkiä"
+
+#: ../desktop-directories/RolePlayingGames.directory.in.h:2
+msgid "Role playing games"
+msgstr "Roolipelit"
+
+#: ../desktop-directories/SimulationGames.directory.in.h:1
+msgid "Simulation"
+msgstr "Simulointi"
+
+#: ../desktop-directories/SimulationGames.directory.in.h:2
+msgid "Simulation games"
+msgstr "Simulaatiopelit"
+
+#: ../desktop-directories/SportsGames.directory.in.h:1
+msgid "Sports"
+msgstr "Urheilu"
+
+#: ../desktop-directories/SportsGames.directory.in.h:2
+msgid "Sports games"
+msgstr "Urheilupelit"
+
+#: ../desktop-directories/StrategyGames.directory.in.h:1
+msgid "Strategy"
+msgstr "strategia"
+
+#: ../desktop-directories/StrategyGames.directory.in.h:2
+msgid "Strategy games"
+msgstr "Strategia pelit"
+
+#: ../desktop-directories/X-UnsortedGames.directory.in.h:1
+#, fuzzy
+msgid "Unsorted Games"
+msgstr "Luokittelemattomat pelit"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Ääni & video"

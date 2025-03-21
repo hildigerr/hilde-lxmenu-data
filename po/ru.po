@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus trunk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-21 15:23+0200\n"
+"POT-Creation-Date: 2025-03-17 15:33-0700\n"
 "PO-Revision-Date: 2010-05-25 17:59+0200\n"
 "Last-Translator: Max <mpui@tut.by>\n"
 "Language-Team: Russian <gnome-cyr@gnome.org>\n"
@@ -15,9 +15,65 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.0.1\n"
+
+#: ../desktop-directories/ActionGames.directory.in.h:1
+msgid "Action"
+msgstr "Экшн"
+
+#: ../desktop-directories/ActionGames.directory.in.h:2
+msgid "Action games"
+msgstr "Экшн-игры"
+
+#: ../desktop-directories/AdventureGames.directory.in.h:1
+msgid "Adventure"
+msgstr "Приключение"
+
+#: ../desktop-directories/AdventureGames.directory.in.h:2
+msgid "Adventure style games"
+msgstr "Приключенческие игры"
+
+#: ../desktop-directories/ArcadeGames.directory.in.h:1
+msgid "Arcade"
+msgstr "Аркада"
+
+#: ../desktop-directories/ArcadeGames.directory.in.h:2
+msgid "Arcade style games"
+msgstr "Аркадные игры"
+
+#: ../desktop-directories/BoardGames.directory.in.h:1
+msgid "Board"
+msgstr "Настольная"
+
+#: ../desktop-directories/BoardGames.directory.in.h:2
+msgid "Board games"
+msgstr "Настольные игры"
+
+#: ../desktop-directories/CardGames.directory.in.h:1
+msgid "Cards"
+msgstr "Карты"
+
+#: ../desktop-directories/CardGames.directory.in.h:2
+msgid "Card games"
+msgstr "Карточные игры"
+
+#: ../desktop-directories/KidsGames.directory.in.h:1
+msgid "Kids"
+msgstr "Дети"
+
+#: ../desktop-directories/KidsGames.directory.in.h:2
+msgid "Games for kids"
+msgstr "Игры для детей"
+
+#: ../desktop-directories/LogicGames.directory.in.h:1
+msgid "Logic"
+msgstr "Логика"
+
+#: ../desktop-directories/LogicGames.directory.in.h:2
+msgid "Logic and puzzle games"
+msgstr "Логические и головоломки"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 #, fuzzy
@@ -54,6 +110,7 @@ msgid "Games"
 msgstr "Игры"
 
 #: ../desktop-directories/lxde-game.directory.in.h:2
+#: ../desktop-directories/X-UnsortedGames.directory.in.h:2
 msgid "Games and amusements"
 msgstr "Игры и развлечения"
 
@@ -205,6 +262,43 @@ msgstr "Стандартные"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Стандартные приложения"
+
+#: ../desktop-directories/RolePlayingGames.directory.in.h:1
+msgid "Role playing"
+msgstr "Ролевая игра"
+
+#: ../desktop-directories/RolePlayingGames.directory.in.h:2
+msgid "Role playing games"
+msgstr "Ролевые игры"
+
+#: ../desktop-directories/SimulationGames.directory.in.h:1
+msgid "Simulation"
+msgstr "Симуляция"
+
+#: ../desktop-directories/SimulationGames.directory.in.h:2
+msgid "Simulation games"
+msgstr "Симуляторы"
+
+#: ../desktop-directories/SportsGames.directory.in.h:1
+msgid "Sports"
+msgstr "Спорт"
+
+#: ../desktop-directories/SportsGames.directory.in.h:2
+msgid "Sports games"
+msgstr "Спортивные игры"
+
+#: ../desktop-directories/StrategyGames.directory.in.h:1
+msgid "Strategy"
+msgstr "Стратегия"
+
+#: ../desktop-directories/StrategyGames.directory.in.h:2
+msgid "Strategy games"
+msgstr "Стратегические игры"
+
+#: ../desktop-directories/X-UnsortedGames.directory.in.h:1
+#, fuzzy
+msgid "Unsorted Games"
+msgstr "Некатегоризованные игры"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Аудио и видео"

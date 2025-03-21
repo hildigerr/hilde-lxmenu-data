@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-21 15:23+0200\n"
+"POT-Creation-Date: 2025-03-17 15:33-0700\n"
 "PO-Revision-Date: 2023-07-21 16:07+0200\n"
 "Last-Translator: Ingo Brückl <ib@wupperonline.de>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -18,6 +18,64 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 1.1.0\n"
+
+#: ../desktop-directories/ActionGames.directory.in.h:1
+#, fuzzy
+msgid "Action"
+msgstr "Kampf"
+
+#: ../desktop-directories/ActionGames.directory.in.h:2
+#, fuzzy
+msgid "Action Games"
+msgstr "Kampfspile"
+
+#: ../desktop-directories/AdventureGames.directory.in.h:1
+msgid "Adventure"
+msgstr "Abenteuer"
+
+#: ../desktop-directories/AdventureGames.directory.in.h:2
+msgid "Adventure style games"
+msgstr "Abenteuerspiele"
+
+#: ../desktop-directories/ArcadeGames.directory.in.h:1
+msgid "Arcade"
+msgstr ""
+
+#: ../desktop-directories/ArcadeGames.directory.in.h:2
+msgid "Arcade style games"
+msgstr "Arcade-Spiel"
+
+#: ../desktop-directories/BoardGames.directory.in.h:1
+msgid "Board"
+msgstr "Brett"
+
+#: ../desktop-directories/BoardGames.directory.in.h:2
+msgid "Board games"
+msgstr "Brettspiele"
+
+#: ../desktop-directories/CardGames.directory.in.h:1
+msgid "Cards"
+msgstr "Karten"
+
+#: ../desktop-directories/CardGames.directory.in.h:2
+msgid "Card games"
+msgstr "Kartenspiele"
+
+#: ../desktop-directories/KidsGames.directory.in.h:1
+msgid "Kids"
+msgstr "Kinder"
+
+#: ../desktop-directories/KidsGames.directory.in.h:2
+msgid "Games for kids"
+msgstr "Spiele für Kinder"
+
+#: ../desktop-directories/LogicGames.directory.in.h:1
+msgid "Logic"
+msgstr "Logik"
+
+#: ../desktop-directories/LogicGames.directory.in.h:2
+msgid "Logic and puzzle games"
+msgstr "Logik- und Puzzlespiele"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 msgid "Multimedia"
@@ -48,6 +106,7 @@ msgid "Games"
 msgstr "Spiele"
 
 #: ../desktop-directories/lxde-game.directory.in.h:2
+#: ../desktop-directories/X-UnsortedGames.directory.in.h:2
 msgid "Games and amusements"
 msgstr "Spiel und Spaß"
 
@@ -183,3 +242,40 @@ msgstr "Zubehör"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Desktop-Zubehör"
+
+#: ../desktop-directories/RolePlayingGames.directory.in.h:1
+msgid "Role playing"
+msgstr "Rollenspiele"
+
+#: ../desktop-directories/RolePlayingGames.directory.in.h:2
+msgid "Role playing games"
+msgstr "Rollenspiele"
+
+#: ../desktop-directories/SimulationGames.directory.in.h:1
+msgid "Simulation"
+msgstr ""
+
+#: ../desktop-directories/SimulationGames.directory.in.h:2
+msgid "Simulation games"
+msgstr "Simulationsspiel"
+
+#: ../desktop-directories/SportsGames.directory.in.h:1
+msgid "Sports"
+msgstr "Sport"
+
+#: ../desktop-directories/SportsGames.directory.in.h:2
+msgid "Sports games"
+msgstr "Sportspiele"
+
+#: ../desktop-directories/StrategyGames.directory.in.h:1
+msgid "Strategy"
+msgstr "Strategie"
+
+#: ../desktop-directories/StrategyGames.directory.in.h:2
+msgid "Strategy games"
+msgstr "Strategiespiele"
+
+#: ../desktop-directories/X-UnsortedGames.directory.in.h:1
+#, fuzzy
+msgid "Unsorted Games"
+msgstr "Nicht kategorisiert"

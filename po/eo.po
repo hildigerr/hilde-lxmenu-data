@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-21 15:23+0200\n"
+"POT-Creation-Date: 2025-03-17 15:33-0700\n"
 "PO-Revision-Date: 2011-09-30 16:22+0200\n"
 "Last-Translator: Kristjan <kristjan.schmidt@googlemail.com>\n"
 "Language-Team: Esperanto <eo@li.org>\n"
@@ -19,6 +19,62 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.0.5\n"
+
+#: ../desktop-directories/ActionGames.directory.in.h:1
+msgid "Action"
+msgstr "Ago"
+
+#: ../desktop-directories/ActionGames.directory.in.h:2
+msgid "Action games"
+msgstr "Agaj Ludoj"
+
+#: ../desktop-directories/AdventureGames.directory.in.h:1
+msgid "Adventure"
+msgstr "Aventuro"
+
+#: ../desktop-directories/AdventureGames.directory.in.h:2
+msgid "Adventure style games"
+msgstr "Aventurstilaj Ludoj"
+
+#: ../desktop-directories/ArcadeGames.directory.in.h:1
+msgid "Arcade"
+msgstr "Arkado"
+
+#: ../desktop-directories/ArcadeGames.directory.in.h:2
+msgid "Arcade style games"
+msgstr "Arkadstilaj Ludoj"
+
+#: ../desktop-directories/BoardGames.directory.in.h:1
+msgid "Board"
+msgstr "Tabulo"
+
+#: ../desktop-directories/BoardGames.directory.in.h:2
+msgid "Board games"
+msgstr "Tabulludoj"
+
+#: ../desktop-directories/CardGames.directory.in.h:1
+msgid "Cards"
+msgstr "Kartoj"
+
+#: ../desktop-directories/CardGames.directory.in.h:2
+msgid "Card games"
+msgstr "Kartludoj"
+
+#: ../desktop-directories/KidsGames.directory.in.h:1
+msgid "Kids"
+msgstr "Infanoj"
+
+#: ../desktop-directories/KidsGames.directory.in.h:2
+msgid "Games for kids"
+msgstr "Ludoj por Infanoj"
+
+#: ../desktop-directories/LogicGames.directory.in.h:1
+msgid "Logic"
+msgstr "Logiko"
+
+#: ../desktop-directories/LogicGames.directory.in.h:2
+msgid "Logic and puzzle games"
+msgstr "Logiko kaj Enigmaj Ludoj"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
 #, fuzzy
@@ -55,6 +111,7 @@ msgid "Games"
 msgstr "Ludoj"
 
 #: ../desktop-directories/lxde-game.directory.in.h:2
+#: ../desktop-directories/X-UnsortedGames.directory.in.h:2
 msgid "Games and amusements"
 msgstr "Ludoj kaj amuzoj"
 
@@ -136,6 +193,7 @@ msgstr "Alia"
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
 #| msgid "Applications that did not fit in other categories"
+#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Aplikaĵoj neagordaj aliajn kategoriojn"
 
@@ -206,6 +264,43 @@ msgstr "Utilaĵoj"
 #: ../desktop-directories/lxde-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Labortablaj utilaĵoj"
+
+#: ../desktop-directories/RolePlayingGames.directory.in.h:1
+msgid "Role playing"
+msgstr "Rolludado"
+
+#: ../desktop-directories/RolePlayingGames.directory.in.h:2
+msgid "Role playing games"
+msgstr "Rolludoj"
+
+#: ../desktop-directories/SimulationGames.directory.in.h:1
+msgid "Simulation"
+msgstr "Simulado"
+
+#: ../desktop-directories/SimulationGames.directory.in.h:2
+msgid "Simulation games"
+msgstr "Simuladaj Ludoj"
+
+#: ../desktop-directories/SportsGames.directory.in.h:1
+msgid "Sports"
+msgstr "Sportoj"
+
+#: ../desktop-directories/SportsGames.directory.in.h:2
+msgid "Sports games"
+msgstr "Sportaj Ludoj"
+
+#: ../desktop-directories/StrategyGames.directory.in.h:1
+msgid "Strategy"
+msgstr "Strategio"
+
+#: ../desktop-directories/StrategyGames.directory.in.h:2
+msgid "Strategy games"
+msgstr "Strategiaj Ludoj"
+
+#: ../desktop-directories/X-UnsortedGames.directory.in.h:1
+#, fuzzy
+msgid "Unsorted Games"
+msgstr "Nekategoriita Ludoj"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Sono kaj video"

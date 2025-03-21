@@ -2,6 +2,18 @@ NULL =
 
 directorydir = $(datadir)/desktop-directories
 directory_in_files =				\
+	ActionGames.directory.in                \
+	AdventureGames.directory.in             \
+	ArcadeGames.directory.in                \
+	BoardGames.directory.in                 \
+	CardGames.directory.in                  \
+	KidsGames.directory.in                  \
+	LogicGames.directory.in                 \
+	RolePlayingGames.directory.in           \
+	SimulationGames.directory.in            \
+	SportsGames.directory.in                \
+	StrategyGames.directory.in              \
+	X-UnsortedGames.directory.in            \
 	lxde-audio-video.directory.in           \
 	lxde-development.directory.in           \
 	lxde-education.directory.in             \
