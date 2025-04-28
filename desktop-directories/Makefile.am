@@ -25,6 +25,7 @@ directory_in_files =				\
 	lxde-other.directory.in                 \
 	lxde-science.directory.in               \
 	lxde-settings.directory.in              \
+	lxde-settings-system.directory.in              \
 	lxde-system.directory.in                \
 	lxde-utility.directory.in               \
 	lxde-utility-accessibility.directory.in \
