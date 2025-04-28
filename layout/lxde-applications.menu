@@ -214,6 +214,7 @@
 		<Include>
 			<And>
 				<Category>System</Category>
+				<Not><Category>Emulator</Category></Not>
 				<Not><Category>Game</Category></Not>
 				<Not><Category>Settings</Category></Not>
 				<Not><Category>PackageManager</Category></Not>
@@ -238,6 +239,16 @@
 					<Category>System</Category>
 				</And>
 				<Category>PackageManager</Category>
+			</Include>
+		</Menu>
+		<Menu>
+			<Name>Emulation</Name>
+			<Directory>system-emulation.directory</Directory>
+			<Include>
+				<And>
+					<Category>System</Category>
+					<Category>Emulator</Category>
+				</And>
 			</Include>
 		</Menu>
 	</Menu>

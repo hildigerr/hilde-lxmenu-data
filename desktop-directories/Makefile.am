@@ -13,6 +13,7 @@ directory_in_files =				\
 	SimulationGames.directory.in            \
 	SportsGames.directory.in                \
 	StrategyGames.directory.in              \
+	system-emulation.directory.in           \
 	X-UnsortedGames.directory.in            \
 	lxde-audio-video.directory.in           \
 	lxde-development.directory.in           \
