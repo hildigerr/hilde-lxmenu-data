@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: oc\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2007-12-23 12:20+0100\n"
 "Last-Translator: Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>\n"
 "Language-Team: Occitan <ubuntu-l10n-oci@lists.ubuntu.com>\n"
@@ -40,6 +40,15 @@ msgstr ""
 
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
 msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
@@ -75,16 +84,13 @@ msgid "Logic and puzzle games"
 msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "Multimèdia"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "Logicials grafics"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -100,7 +106,6 @@ msgstr "Educacion"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "Educacion"
 
@@ -151,7 +156,6 @@ msgstr "Aplicacions"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "Aplicacions"
 
@@ -170,7 +174,6 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr ""
 "Logicials per accedir a internet, coma lo web o los messatges electronics"
@@ -181,7 +184,6 @@ msgstr "Burèu"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Logicials pel burèu"
 
@@ -191,7 +193,6 @@ msgstr "Autre"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Logicials que dintran pas dins las autras categorias"
 
@@ -225,7 +226,6 @@ msgstr "Preferéncias"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "Preferéncias personalas"
 
@@ -239,7 +239,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "Configuracion e susvelhança del sistèma"
 
@@ -294,6 +293,16 @@ msgstr ""
 #: ../desktop-directories/X-UnsortedGames.directory.in.h:1
 msgid "Unsorted Games"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "Multimèdia"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "Logicials grafics"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Son e vidèo"

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD.mr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2008-02-29 21:19+0530\n"
 "Last-Translator: Sandeep Shedmake <sandeep.shedmake@gmail.com>\n"
 "Language-Team: marathi\n"
@@ -46,6 +46,15 @@ msgstr ""
 msgid "Arcade style games"
 msgstr ""
 
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
+msgstr ""
+
 #: ../desktop-directories/BoardGames.directory.in.h:1
 msgid "Board"
 msgstr ""
@@ -79,16 +88,13 @@ msgid "Logic and puzzle games"
 msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "विविध-वाहिन्यांचा मेनु"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "चित्र-विज्ञान उपकरणं"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -104,7 +110,6 @@ msgstr "शिक्षण"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "शिक्षण"
 
@@ -155,7 +160,6 @@ msgstr "उपकरणं"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "उपकरणं"
 
@@ -174,7 +178,6 @@ msgstr "इंटरनेट"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "इंटरनेट वेब व ईमेल बघण्यासाठी प्रोग्राम"
 
@@ -184,7 +187,6 @@ msgstr "कार्यालय"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "कार्यालय संबंधित उपकरणं"
 
@@ -194,7 +196,6 @@ msgstr "अन्य"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "उपकरणं जे दुसरया कुठल्याही गटांत बसले नाही"
 
@@ -216,7 +217,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "विज्ञान व गणित"
 
@@ -230,7 +230,6 @@ msgstr "प्राधान्ये"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "व्यक्तिगत प्राधान्यता"
 
@@ -240,13 +239,11 @@ msgstr "व्यवथापन"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "प्रणाली-करीताचे संयोजना बदलवा (सर्व वापरकर्ते प्रभावीत होतात)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "यंत्रणेचे सुसुत्रीकरण व संचलन"
 
@@ -301,6 +298,16 @@ msgstr ""
 #: ../desktop-directories/X-UnsortedGames.directory.in.h:1
 msgid "Unsorted Games"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "विविध-वाहिन्यांचा मेनु"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "चित्र-विज्ञान उपकरणं"
 
 #~ msgid "Sound & Video"
 #~ msgstr "आवाज व चलचित्र"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2006-03-02 12:05-0000\n"
 "Last-Translator: Rhys Jones <rhys@sucs.org>\n"
 "Language-Team: Welsh <cy@pengwyn.linux.org.uk>\n"
@@ -39,6 +39,15 @@ msgstr "Arcêd"
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
 msgstr "Gemau arddull arcêd"
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
+msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
 msgid "Board"
@@ -73,16 +82,13 @@ msgid "Logic and puzzle games"
 msgstr "Logic a Gemau Pos"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "Dewislen amlgyfrwng"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "Rhaglennu graffeg"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -98,7 +104,6 @@ msgstr "Addysg"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "Addysg"
 
@@ -149,7 +154,6 @@ msgstr "Rhaglenni"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "Rhaglenni"
 
@@ -169,7 +173,6 @@ msgstr "Rhyngrwyd"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "Rhaglenni ar gyfer mynediad Rhyngrwyd megis y we ac e-bost"
 
@@ -179,7 +182,6 @@ msgstr "Swyddfa"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Rhaglenni Swyddfa"
 
@@ -189,7 +191,6 @@ msgstr "Eraill"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Rhaglenni nad ydynt yn ffitio yng nghategorïau eraill"
 
@@ -212,7 +213,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "Gwyddoniaeth a Mathemateg"
 
@@ -226,7 +226,6 @@ msgstr "Hoffterau"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "Hoffterau personol"
 
@@ -241,7 +240,6 @@ msgstr "Newid gosodiadau system-eang (sy'n effeithio pob defnyddiwr)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "Cyflunio a monitro system"
 
@@ -297,6 +295,16 @@ msgstr "Gemau Strategaeth"
 #: ../desktop-directories/X-UnsortedGames.directory.in.h:1
 msgid "Unsorted Games"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "Dewislen amlgyfrwng"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "Rhaglennu graffeg"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Sain a Fideo"

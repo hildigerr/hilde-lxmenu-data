@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bn\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2010-02-01 22:55+0600\n"
 "Last-Translator: Israt Jahan <israt@ankur.org.bd>\n"
 "Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
@@ -40,6 +40,15 @@ msgstr ""
 
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
 msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
@@ -75,16 +84,13 @@ msgid "Logic and puzzle games"
 msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "মাল্টিমিডিয়া মেনু"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "গ্রাফিক্স অ্যাপ্লিকেশন"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -100,7 +106,6 @@ msgstr "শিক্ষা"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "শিক্ষা"
 
@@ -151,7 +156,6 @@ msgstr "অ্যাপলিকেশন"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "অ্যাপলিকেশন"
 
@@ -170,7 +174,6 @@ msgstr "ইন্টারনেট"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "ইন্টারনেট ব্যবহারের প্রোগ্রাম, যেমন ওয়েব বা ইমেইল"
 
@@ -180,7 +183,6 @@ msgstr "অফিস"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "অফিস অ্যাপলিকেশন"
 
@@ -190,7 +192,6 @@ msgstr "অন্যান্য"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "অ্যাপ্লিকেশন যেগুলো অন্য কোন শ্রেণীভূক্ত নয়"
 
@@ -212,7 +213,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "বিজ্ঞান এবং গণিত"
 
@@ -226,7 +226,6 @@ msgstr "পছন্দতালিকা"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "ব্যক্তিগত পছন্দতালিকা"
 
@@ -236,13 +235,11 @@ msgstr "অ্যাডমিনস্ট্রেশন"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "সিস্টেমব্যাপী বৈশিষ্ট্যাবলী পরিবর্তন করা হবে (সব ব্যবহারকারীর জন্য প্রযোজ্য)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "সিস্টেম কনফিগারেশন এবং মনিটরিং"
 
@@ -298,6 +295,16 @@ msgstr ""
 #: ../desktop-directories/X-UnsortedGames.directory.in.h:1
 msgid "Unsorted Games"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "মাল্টিমিডিয়া মেনু"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "গ্রাফিক্স অ্যাপ্লিকেশন"
 
 #~ msgid "Sound & Video"
 #~ msgstr "শব্দ ও ভিডিও"

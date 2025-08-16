@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: el\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2008-03-04 00:31+0200\n"
 "Last-Translator: nikosCharonitakis <nikosx@gmail.com>\n"
 "Language-Team: Greek <team@gnome.gr>\n"
@@ -42,6 +42,15 @@ msgstr "αρκέιντ"
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
 msgstr "βιντεοπαιχνίδι αρκέιντ"
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
+msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
 msgid "Board"
@@ -76,16 +85,13 @@ msgid "Logic and puzzle games"
 msgstr "Λογικά και παιχνίδια παζλ"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "Μενού πολυμέσων"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "Εφαρμογές γραφικών"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -101,7 +107,6 @@ msgstr "Εκπαίδευση"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "Εκπαίδευση"
 
@@ -152,7 +157,6 @@ msgstr "Εφαρμογές"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "Εφαρμογές"
 
@@ -171,7 +175,6 @@ msgstr "Διαδίκτυο"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr ""
 "Προγράμματα πρόσβασης στο Διαδίκτυο όπως φυλλομετρητής και ηλεκ. αλληλογραφία"
@@ -182,7 +185,6 @@ msgstr "Γραφείο"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Εφαρμογές γραφείου"
 
@@ -192,7 +194,6 @@ msgstr "Άλλα"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Εφαρμογές που δεν ταιριάζουν στις άλλες κατηγορίες"
 
@@ -214,7 +215,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "Επιστήμη & Μαθηματικά"
 
@@ -228,7 +228,6 @@ msgstr "Προτιμήσεις"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "Προσωπικές προτιμήσεις"
 
@@ -238,13 +237,11 @@ msgstr "Διαχείριση συστήματος"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "Τροποποίηση ρυθμίσεων συστήματος (επηρεάζει όλους τους χρήστες)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "Ρύθμιση και έλεγχος συστήματος"
 
@@ -300,6 +297,16 @@ msgstr "Παιχνίδια στρατηγικής"
 #, fuzzy
 msgid "Unsorted Games"
 msgstr "Χωρίς κατηγοριοποίηση"
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "Μενού πολυμέσων"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "Εφαρμογές γραφικών"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Ήχος & βίντεο"

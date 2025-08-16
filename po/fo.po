@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2010-03-19 09:38+0200\n"
 "Last-Translator: Gunleif <gunleif@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,6 +42,15 @@ msgstr "Arkada"
 msgid "Arcade style games"
 msgstr "Spøl í arkade stíli"
 
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
+msgstr ""
+
 #: ../desktop-directories/BoardGames.directory.in.h:1
 msgid "Board"
 msgstr "Borð"
@@ -75,16 +84,13 @@ msgid "Logic and puzzle games"
 msgstr "Logikk og gátuspøl"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "Margmiðla-valmynd"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "Teknindis nýtsluskipanir"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -100,7 +106,6 @@ msgstr "Útbúgving"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "Útbúgving"
 
@@ -151,7 +156,6 @@ msgstr "Nýtsluskipanir"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "Nýtsluskipanir"
 
@@ -170,7 +174,6 @@ msgstr "Alnet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "Forrit til alnetsatgongd, so sum alnet og t-post"
 
@@ -180,7 +183,6 @@ msgstr "Skrivstova"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Skrivstovu nýtsluskipanir"
 
@@ -190,7 +192,6 @@ msgstr "Annað"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Nýtsluskipanir ið ikki passa í aðrar bólkar"
 
@@ -224,7 +225,6 @@ msgstr "Sertokkar"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "Persónligar sertokkar"
 
@@ -234,13 +234,11 @@ msgstr "Leiðsla"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "Broyt alkervis setingar (ávirkar allar brúkarar)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "Kervis samanseting og vøka"
 
@@ -296,6 +294,16 @@ msgstr "Strategispøl"
 #, fuzzy
 msgid "Unsorted Games"
 msgstr "Óflokkað spøl"
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "Margmiðla-valmynd"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "Teknindis nýtsluskipanir"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Ljóð og video"

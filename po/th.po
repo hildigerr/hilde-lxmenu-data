@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus 2.9.2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2007-05-18 13:22+0700\n"
 "Last-Translator: Theppitak Karoonboonyanan <thep@linux.thai.net>\n"
 "Language-Team: Thai <l10n@opentle.org>\n"
@@ -39,6 +39,15 @@ msgstr ""
 
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
 msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
@@ -74,16 +83,13 @@ msgid "Logic and puzzle games"
 msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "เมนูระบบสื่อผสม"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "โปรแกรมสำหรับรูปภาพ"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -99,7 +105,6 @@ msgstr "การศึกษา"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "การศึกษา"
 
@@ -150,7 +155,6 @@ msgstr "โปรแกรม"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "โปรแกรม"
 
@@ -169,7 +173,6 @@ msgstr "อินเทอร์เน็ต"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "โปรแกรมสำหรับเข้าอินเทอร์เน็ต เช่น เว็บและเมล"
 
@@ -179,7 +182,6 @@ msgstr "สำนักงาน"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "โปรแกรมสำหรับสำนักงาน"
 
@@ -189,7 +191,6 @@ msgstr "อื่นๆ"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "โปรแกรมที่ไม่อยู่ในหมวดอื่นๆ"
 
@@ -211,7 +212,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "วิทยาศาสตร์และคณิตศาสตร์"
 
@@ -225,7 +225,6 @@ msgstr "ปรับแต่งพื้นโต๊ะ"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "ปรับแต่งพื้นโต๊ะส่วนตัว"
 
@@ -235,13 +234,11 @@ msgstr "ดูแลระบบ"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "การตั้งค่าที่มีผลทั้งระบบ (มีผลต่อผู้ใช้ทุกคน)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "ตั้งค่าและเฝ้าดูระบบ"
 
@@ -296,6 +293,16 @@ msgstr ""
 #: ../desktop-directories/X-UnsortedGames.directory.in.h:1
 msgid "Unsorted Games"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "เมนูระบบสื่อผสม"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "โปรแกรมสำหรับรูปภาพ"
 
 #~ msgid "Sound & Video"
 #~ msgstr "เสียงและวีดิทัศน์"

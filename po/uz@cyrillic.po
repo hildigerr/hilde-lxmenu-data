@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: uz@cyrillic\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2007-09-20 18:50+0500\n"
 "Last-Translator: Nurali Abdurahmonov <mavnur@gmail.com>\n"
 "Language-Team: Uzbek\n"
@@ -39,6 +39,15 @@ msgstr ""
 
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
 msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
@@ -74,16 +83,13 @@ msgid "Logic and puzzle games"
 msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "Мултимедиа менюси"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "Графика дастурлари"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -99,7 +105,6 @@ msgstr "Таълим"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "Таълим"
 
@@ -150,7 +155,6 @@ msgstr "Дастурлар"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "Дастурлар"
 
@@ -169,7 +173,6 @@ msgstr "Интернет"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "Веб браузер ва эл.почта каби интернет билан ишлаш дастурлари"
 
@@ -179,7 +182,6 @@ msgstr "Офис"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Офис дастурлари"
 
@@ -189,7 +191,6 @@ msgstr "Бошқа"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Ҳеч қайси туркумга кирмайдиган дастурлар"
 
@@ -211,7 +212,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "Фан ва Математика"
 
@@ -233,7 +233,6 @@ msgstr "Бошқарув"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr ""
 "Бутун тизимга оид мосламаларни ўзгартириш (барча фойдаланувчиларга таъсир "
@@ -241,7 +240,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "Тизимни мослаш ва кузатиш"
 
@@ -296,6 +294,16 @@ msgstr ""
 #: ../desktop-directories/X-UnsortedGames.directory.in.h:1
 msgid "Unsorted Games"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "Мултимедиа менюси"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "Графика дастурлари"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Товуш ва видео"

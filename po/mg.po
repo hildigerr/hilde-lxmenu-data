@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2006-04-07 10:42+0300\n"
 "Last-Translator: Thierry Randrianiriana <randrianiriana@gmail.com>\n"
 "Language-Team: Malagasy <i18n-malagasy-gnome@gna.org>\n"
@@ -40,6 +40,15 @@ msgstr ""
 
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
 msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
@@ -75,16 +84,13 @@ msgid "Logic and puzzle games"
 msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "Karazan-tsafidin'ny haino aman-jery"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "Rindran'asa fanaovan-tsary"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -100,7 +106,6 @@ msgstr "Fanabeazana"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "Fanabeazana"
 
@@ -151,7 +156,6 @@ msgstr "Rindran'asa"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "Rindran'asa"
 
@@ -171,7 +175,6 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr ""
 "Rindran'asa ahafahana mifandray amin'ny Internet toy ny tranonkala sy ny "
@@ -183,7 +186,6 @@ msgstr "Office"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Rindran'asa Office"
 
@@ -193,7 +195,6 @@ msgstr "Hafa"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Rindran'asa izay tsy tafiditra anaty sokajy hafa"
 
@@ -228,7 +229,6 @@ msgstr "Safidy"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "Safidy manokana"
 
@@ -244,7 +244,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "Fanefena sy fanaraha-maso ny rafitra"
 
@@ -300,6 +299,16 @@ msgstr ""
 #: ../desktop-directories/X-UnsortedGames.directory.in.h:1
 msgid "Unsorted Games"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "Karazan-tsafidin'ny haino aman-jery"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "Rindran'asa fanaovan-tsary"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Feo sy sarimihetsika"

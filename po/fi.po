@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2007-02-12 20:26+0300\n"
 "Last-Translator: Ilkka Tuohela <hile@iki.fi>\n"
 "Language-Team: Finnish <gnome-fi-laatu@lists.sourceforge.net>\n"
@@ -41,6 +41,15 @@ msgstr "Arkadi"
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
 msgstr "Arkadipelit"
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
+msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
 msgid "Board"
@@ -75,16 +84,13 @@ msgid "Logic and puzzle games"
 msgstr "Logiikka- ja pulmapelit"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "Multimediavalikko"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "Grafiikkasovellukset"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -100,7 +106,6 @@ msgstr "Opetusohjelmat"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "Opetusohjelmat"
 
@@ -151,7 +156,6 @@ msgstr "Sovellukset"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "Sovellukset"
 
@@ -170,7 +174,6 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "Internet-sovellukset kuten selain ja sähköposti"
 
@@ -180,7 +183,6 @@ msgstr "Toimisto"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Toimistosovellukset"
 
@@ -190,7 +192,6 @@ msgstr "Muut"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Muihin luokkiin sopimattomat sovellukset"
 
@@ -212,7 +213,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "Tiede ja matematiikka"
 
@@ -226,7 +226,6 @@ msgstr "Asetukset"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "Henkilökohtaiset valinnat"
 
@@ -236,13 +235,11 @@ msgstr "Ylläpito"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "Muuta järjestelmänlaajuisia asetuksia (vaikuttaa joka käyttäjään)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "Järjestelmäasetukset ja -seuranta"
 
@@ -298,6 +295,16 @@ msgstr "Strategia pelit"
 #, fuzzy
 msgid "Unsorted Games"
 msgstr "Luokittelemattomat pelit"
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "Multimediavalikko"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "Grafiikkasovellukset"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Ääni & video"

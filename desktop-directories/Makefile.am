@@ -5,6 +5,7 @@ directory_in_files =				\
 	ActionGames.directory.in                \
 	AdventureGames.directory.in             \
 	ArcadeGames.directory.in                \
+	audio.directory.in                      \
 	BoardGames.directory.in                 \
 	CardGames.directory.in                  \
 	KidsGames.directory.in                  \

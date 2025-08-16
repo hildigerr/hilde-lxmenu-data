@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD.fr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2009-12-02 22:16+0100\n"
 "Last-Translator: Mouillon <pci21@free.fr>\n"
 "Language-Team: GNOME French team <gnomefr@traduc.org>\n"
@@ -45,6 +45,15 @@ msgstr ""
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
 msgstr "Jeux de style arcade"
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
+msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
 msgid "Board"
@@ -79,16 +88,13 @@ msgid "Logic and puzzle games"
 msgstr "Jeux de logique et de réflexion"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "Multimédia"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "Applications graphiques"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -104,7 +110,6 @@ msgstr "Éducation"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "Éducation"
 
@@ -155,7 +160,6 @@ msgstr "Applications"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "Applications"
 
@@ -174,7 +178,6 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "Programmes pour accéder à Internet tels que le Web ou la messagerie"
 
@@ -184,7 +187,6 @@ msgstr "Bureautique"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Applications bureautiques"
 
@@ -194,7 +196,6 @@ msgstr "Autre"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Applications qui n'entraient dans aucune autre catégorie"
 
@@ -216,7 +217,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "Science et mathématiques"
 
@@ -230,7 +230,6 @@ msgstr "Préférences"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "Préférences personnelles"
 
@@ -240,14 +239,12 @@ msgstr "Administration"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr ""
 "Modifie globalement les paramètres du système (affecte tous les utilisateurs)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "Configuration et surveillance système"
 
@@ -303,6 +300,16 @@ msgstr "Jeux de stratégie"
 #, fuzzy
 msgid "Unsorted Games"
 msgstr "Jeux non catégorisés"
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "Multimédia"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "Applications graphiques"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Son et vidéo"

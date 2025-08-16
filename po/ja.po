@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus trunk\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2007-07-08 00:00+0900\n"
 "Last-Translator: Takeshi AIHANA <takeshi.aihana@gmail.com>\n"
 "Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
@@ -40,6 +40,15 @@ msgstr "アーケード"
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
 msgstr "アーケードスタイルゲーム"
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
+msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
 msgid "Board"
@@ -74,16 +83,13 @@ msgid "Logic and puzzle games"
 msgstr "論理パズルゲーム"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "マルチメディア関連のプログラムです"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "グラフィックス関連のアプリケーションです"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -99,7 +105,6 @@ msgstr "教育・教養"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "教育・教養"
 
@@ -150,7 +155,6 @@ msgstr "アプリケーション"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "アプリケーション"
 
@@ -169,7 +173,6 @@ msgstr "インターネット"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "ウェブやメールなどインターネットにアクセスのためのプログラムです"
 
@@ -179,7 +182,6 @@ msgstr "オフィス"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "オフィス・アプリケーションです"
 
@@ -189,7 +191,6 @@ msgstr "その他"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "他のカテゴリにあてはまらないアプリケーション"
 
@@ -211,7 +212,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "サイエンス & 数学"
 
@@ -225,7 +225,6 @@ msgstr "設定"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "ユーザ専用の設定"
 
@@ -235,13 +234,11 @@ msgstr "システム管理"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "システム規模の設定を変更します (全てのユーザに影響します)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "システムの設定と監視を行うプログラムです"
 
@@ -297,6 +294,16 @@ msgstr "戦略ゲーム"
 #, fuzzy
 msgid "Unsorted Games"
 msgstr "未分類ゲーム"
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "マルチメディア関連のプログラムです"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "グラフィックス関連のアプリケーションです"
 
 #~ msgid "Sound & Video"
 #~ msgstr "サウンドとビデオ"

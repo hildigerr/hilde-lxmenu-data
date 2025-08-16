@@ -2,16 +2,16 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome/menus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2005-10-11 11:15+0200\n"
 "Last-Translator: Abduxukur Abdurixit <abdurixit@gmail.com>\n"
-"Language-Team: Gnome Uighur Translation Project <gnome-uighur@yahoogroups."
-"com>\n"
+"Language-Team: Gnome Uighur Translation Project <gnome-"
+"uighur@yahoogroups.com>\n"
 "Language: ug\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,6 +39,15 @@ msgstr ""
 
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
 msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
@@ -74,16 +83,13 @@ msgid "Logic and puzzle games"
 msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "كۆپ ۋاسىتە تىزىملىكى"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "گرافىك پروگراممىلىرى"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -99,7 +105,6 @@ msgstr "مائارىپ"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "مائارىپ"
 
@@ -150,7 +155,6 @@ msgstr "پروگراممىلار"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "پروگراممىلار"
 
@@ -169,7 +173,6 @@ msgstr "ئىنتېرنېت"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "تور ۋە ئېلخەتكە ئوخشاش ئىنتېرنېت زىيارەت پروگراممىلىرى"
 
@@ -179,7 +182,6 @@ msgstr "ئىشخانا"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "ئىشخانا پروگراممىلىرى"
 
@@ -189,7 +191,6 @@ msgstr "باشقا"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "باشقا تۈرلەرگە تەۋە بولمىغان پروگراممىلار"
 
@@ -223,7 +224,6 @@ msgstr "مايىللىق"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "شەخسىي مايىللىق"
 
@@ -233,13 +233,11 @@ msgstr "باشقۇرۇش"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "سىستېما تەڭشىكىنى ئۆزگەرتىش (ھەممە ئىشلەتكۈچىگە تەسىر كۆرسىتىدۇ)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "سىستېما سەپلەش ۋە كۆزىتىش"
 
@@ -294,6 +292,16 @@ msgstr ""
 #: ../desktop-directories/X-UnsortedGames.directory.in.h:1
 msgid "Unsorted Games"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "كۆپ ۋاسىتە تىزىملىكى"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "گرافىك پروگراممىلىرى"
 
 #~ msgid "Sound & Video"
 #~ msgstr "ئۈن ۋە سىن"

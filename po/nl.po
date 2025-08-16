@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2014-01-28 14:34+0000\n"
 "Last-Translator: Pjotr <pjotrvertaalt@gmail.com>\n"
 "Language-Team: Dutch\n"
@@ -47,6 +47,15 @@ msgstr ""
 msgid "Arcade style games"
 msgstr "Arcadespellen"
 
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
+msgstr ""
+
 #: ../desktop-directories/BoardGames.directory.in.h:1
 msgid "Board"
 msgstr "Bord"
@@ -80,16 +89,13 @@ msgid "Logic and puzzle games"
 msgstr "Logica- en puzzelspellen"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "Multimedia-menu"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "Grafische toepassingen"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -107,7 +113,6 @@ msgstr "Onderwijs"
 # leermiddelen
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "Onderwijs"
 
@@ -158,7 +163,6 @@ msgstr "Toepassingen"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "Toepassingen"
 
@@ -177,7 +181,6 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "Programma's voor internettoegang zoals web en e-mail"
 
@@ -187,7 +190,6 @@ msgstr "Kantoor"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Kantoortoepassingen"
 
@@ -197,7 +199,6 @@ msgstr "Overig"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Toepassingen die niet passen in andere categorieën"
 
@@ -219,7 +220,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "Wetenschap en wiskunde"
 
@@ -233,7 +233,6 @@ msgstr "Voorkeuren"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "Persoonlijke voorkeuren"
 
@@ -243,14 +242,12 @@ msgstr "Beheer"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "Systeembrede instellingen veranderen (voor alle gebruikers)"
 
 # was eerst monitoring, vervangen door controle
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "Systeemconfiguratie en -controle"
 
@@ -307,6 +304,16 @@ msgstr "Strategiespellen"
 #, fuzzy
 msgid "Unsorted Games"
 msgstr "Ongecategoriseerde spellen"
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "Multimedia-menu"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "Grafische toepassingen"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Muziek en video"

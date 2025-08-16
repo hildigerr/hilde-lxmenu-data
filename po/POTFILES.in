@@ -3,6 +3,7 @@
 desktop-directories/ActionGames.directory.in
 desktop-directories/AdventureGames.directory.in
 desktop-directories/ArcadeGames.directory.in
+desktop-directories/audio.directory.in
 desktop-directories/BoardGames.directory.in
 desktop-directories/CardGames.directory.in
 desktop-directories/KidsGames.directory.in

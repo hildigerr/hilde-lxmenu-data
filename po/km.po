@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2010-07-17 10:39+0200\n"
 "Last-Translator:  <atol@sokha.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -40,6 +40,15 @@ msgstr ""
 
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
 msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
@@ -75,16 +84,13 @@ msgid "Logic and puzzle games"
 msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "ម៉ឺនុយពហុព័ត៌មាន"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "កម្មវិធីក្រាហ្វិក"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -100,7 +106,6 @@ msgstr "ការសិក្សារ"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "ការសិក្សារ"
 
@@ -151,7 +156,6 @@ msgstr "កម្មវិធី"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "កម្មវិធី"
 
@@ -170,7 +174,6 @@ msgstr "អ៊ីនធឺណិត"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "កម្មវិធីសំរាប់ចូលដំណើរការអ៊ីនធឺណិត ដូចជា បញ្ដាញ និង អ៊ីមែល"
 
@@ -180,7 +183,6 @@ msgstr "ការិយាល័យ"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "កម្មវិធីការិយាល័យ"
 
@@ -190,7 +192,6 @@ msgstr "ផ្សេងៗ"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "កម្មវិធីដែលមិនសម នឹងប្រភេទដទៃទៀត"
 
@@ -212,7 +213,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "វិទ្យាសាស្ត្រ និង​គណិតវិទ្យា"
 
@@ -226,7 +226,6 @@ msgstr "ចំណង់ចំណូលចិត្ត"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "ចំណង់ចំណូលចិត្តផ្ទាល់ខ្លួន"
 
@@ -236,13 +235,11 @@ msgstr "ការគ្រប់គ្រង"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "ផ្លាស់ប្ដូរការកំណត់ប្រព័ន្ធទាំងមូល (ប៉ះពាល់ដល់អ្នកប្រើប្រាស់ទាំងអស់)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "ការកំណត់រចនាសម្ព័ន្ធ និង ការត្រួតពិនិត្យ"
 
@@ -297,6 +294,16 @@ msgstr ""
 #: ../desktop-directories/X-UnsortedGames.directory.in.h:1
 msgid "Unsorted Games"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "ម៉ឺនុយពហុព័ត៌មាន"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "កម្មវិធីក្រាហ្វិក"
 
 #~ msgid "Sound & Video"
 #~ msgstr "សម្លេង & វីដេអូ"

@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menu HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2009-05-24 01:19+0200\n"
 "Last-Translator: Payne Samad Loh <sploh77@yahoo.com>\n"
 "Language-Team: ms <sebol@ikhlas.com>\n"
@@ -38,6 +38,15 @@ msgstr ""
 
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
 msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
@@ -73,16 +82,13 @@ msgid "Logic and puzzle games"
 msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "Menu Multimedia"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Couldn't find a suitable application"
-msgid "Audio and video applications"
-msgstr "Tak menjumpai aplikasi yang sesuai"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -98,7 +104,6 @@ msgstr "Pendidikan"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "Pendidikan"
 
@@ -149,7 +154,6 @@ msgstr "Aplikasi"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "Aplikasi"
 
@@ -168,7 +172,6 @@ msgstr "Internet"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "Program untuk mengakses Internet seperti web dan emel"
 
@@ -178,7 +181,6 @@ msgstr "Pejabat"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "Aplikasi Pejabat"
 
@@ -188,7 +190,6 @@ msgstr "Lain-lain"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "Aplikasi yang tak sesuai dalam kategori lain"
 
@@ -210,7 +211,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "Matematik & Sains"
 
@@ -224,7 +224,6 @@ msgstr "Kegemaran"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "Kegemaran peribadi"
 
@@ -234,13 +233,11 @@ msgstr "Administrasi"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "Tukar tetapan seluruh sistem (melibatkan semua pengguna)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "Konfigurasi dan pemantauan sistem"
 
@@ -295,6 +292,16 @@ msgstr ""
 #: ../desktop-directories/X-UnsortedGames.directory.in.h:1
 msgid "Unsorted Games"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "Menu Multimedia"
+
+#, fuzzy
+#~| msgid "Couldn't find a suitable application"
+#~ msgid "Audio and video applications"
+#~ msgstr "Tak menjumpai aplikasi yang sesuai"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Bunyi & Video"
@@ -816,8 +823,8 @@ msgstr ""
 #~ "list. Possible values are \"never\", \"auto\" and \"always\"."
 #~ msgstr ""
 #~ "Menentukan bila mengumpulkan tetingkap dari aplikasi sama pada senarai "
-#~ "tetingkap. Nilai yang sah adalah \"tidak sekali\", \"auto\" dan \"sentiasa"
-#~ "\"."
+#~ "tetingkap. Nilai yang sah adalah \"tidak sekali\", \"auto\" dan "
+#~ "\"sentiasa\"."
 
 #~ msgid ""
 #~ "If true, the window list will show windows from all workspaces. Otherwise "
@@ -1278,12 +1285,12 @@ msgstr ""
 
 #~ msgid ""
 #~ "A list of panel IDs. Each ID identifies an individual toplevel panel. The "
-#~ "settings for each of these panels are stored in /apps/panel/toplevels/"
-#~ "$(id)."
+#~ "settings for each of these panels are stored in /apps/panel/toplevels/$"
+#~ "(id)."
 #~ msgstr ""
 #~ "Senarai ID panel. Setiap ID mengcam panel aras atas secara individu. "
-#~ "Tetapan bagi setiap panel ini akan disimpan di /apps/panel/toplevels/"
-#~ "$(id)."
+#~ "Tetapan bagi setiap panel ini akan disimpan di /apps/panel/toplevels/$"
+#~ "(id)."
 
 #~ msgid ""
 #~ "A list of panel applet IDs. Each ID identifies an individual panel "
@@ -1313,18 +1320,18 @@ msgstr ""
 #~ "dialog is expanded when the dialog is opened. This key is only relevant "
 #~ "if the enable_program_list key is true."
 #~ msgstr ""
-#~ "Jika benar, senarai \"Aplikasi Ddikenali\" pada dialog \"Laksana Aplikasi"
-#~ "\" dikembangkan bila dialog dibuka. Kekunci ini hanya releven bila  "
-#~ "kekunci enable_program_list adalah benar."
+#~ "Jika benar, senarai \"Aplikasi Ddikenali\" pada dialog \"Laksana "
+#~ "Aplikasi\" dikembangkan bila dialog dibuka. Kekunci ini hanya releven "
+#~ "bila  kekunci enable_program_list adalah benar."
 
 #~ msgid ""
 #~ "If true, the \"Known Applications\" listing in the \"Run Application\" "
 #~ "dialog is made available. Whether or not the listing is expanded when the "
 #~ "dialog is shown is controlled by the show_program_list key."
 #~ msgstr ""
-#~ "Jika benar, senarai \"Known Applications\" pada dialog \"Run Application"
-#~ "\" akan ada. Samada senarai dikembangkan atau tak bila dialog dipaparkan "
-#~ "dikawal oleh kekunci show_program_list ."
+#~ "Jika benar, senarai \"Known Applications\" pada dialog \"Run "
+#~ "Application\" akan ada. Samada senarai dikembangkan atau tak bila dialog "
+#~ "dipaparkan dikawal oleh kekunci show_program_list ."
 
 #~ msgid "Old profiles configuration migrated"
 #~ msgstr "Konfigurasi profil lama dimigrasikan"
@@ -1483,9 +1490,9 @@ msgstr ""
 #~ msgstr "Jenis objek panel"
 
 #~ msgid ""
-#~ "The Bonobo implementation ID of the applet - e.g. \"OAFIID:"
-#~ "GNOME_ClockApplet\". This key is only relevant if the object_type key is "
-#~ "\"bonobo-applet\"."
+#~ "The Bonobo implementation ID of the applet - e.g. "
+#~ "\"OAFIID:GNOME_ClockApplet\". This key is only relevant if the "
+#~ "object_type key is \"bonobo-applet\"."
 #~ msgstr ""
 #~ "ID implementasi Bonobo bagi aplet - cth. \"OAFIID:GNOME_ClockApplet\". "
 #~ "kekunci ini hanya relevan jika object_type adalah \"bonobo-applet\"."
@@ -1551,8 +1558,8 @@ msgstr ""
 
 #~ msgid ""
 #~ "The type of this panel object. Possible values are \"drawer-object\", "
-#~ "\"menu-object\", \"launcher-object\", \"bonobo-applet\", \"action-applet"
-#~ "\" and \"menu-bar\"."
+#~ "\"menu-object\", \"launcher-object\", \"bonobo-applet\", \"action-"
+#~ "applet\" and \"menu-bar\"."
 #~ msgstr ""
 #~ "Jenis bagi objek panel. Nilai yang boleh adalah \"drawer-object\", \"menu-"
 #~ "object\", \"launcher-object\", \"bonobo-applet\", \"action-applet\" dan "

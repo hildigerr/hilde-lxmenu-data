@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus.HEAD.ml\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2008-03-01 15:53+0530\n"
 "Last-Translator: Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>\n"
 "Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-"
@@ -45,6 +45,15 @@ msgstr ""
 msgid "Arcade style games"
 msgstr ""
 
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
+msgstr ""
+
 #: ../desktop-directories/BoardGames.directory.in.h:1
 msgid "Board"
 msgstr ""
@@ -78,16 +87,13 @@ msgid "Logic and puzzle games"
 msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-#, fuzzy
-#| msgid "Multimedia menu"
-msgid "Multimedia"
-msgstr "മള്‍ട്ടീമീഡിയ മെനു"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
 #, fuzzy
-#| msgid "Graphics applications"
-msgid "Audio and video applications"
-msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -103,7 +109,6 @@ msgstr "വിദ്യാഭ്യാസം"
 
 #: ../desktop-directories/lxde-education.directory.in.h:2
 #, fuzzy
-#| msgid "Education"
 msgid "Educational software"
 msgstr "വിദ്യാഭ്യാസം"
 
@@ -154,7 +159,6 @@ msgstr "പ്രയോഗങ്ങള്‍"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:2
 #, fuzzy
-#| msgid "Applications"
 msgid "Application Menu"
 msgstr "പ്രയോഗങ്ങള്‍"
 
@@ -173,7 +177,6 @@ msgstr "ഇന്റര്‍നെറ്റ്"
 
 #: ../desktop-directories/lxde-network.directory.in.h:2
 #, fuzzy
-#| msgid "Programs for Internet access such as web and email"
 msgid "Programs for Internet access"
 msgstr "ഇന്റര്‍നെറ്റ് ലഭ്യതയ്ക്കാവശ്യമുളള പ്രോഗ്രാമുകളായ വെബും ഇമെയിലും"
 
@@ -183,7 +186,6 @@ msgstr "ഓഫീസ്"
 
 #: ../desktop-directories/lxde-office.directory.in.h:2
 #, fuzzy
-#| msgid "Office Applications"
 msgid "Office applications"
 msgstr "ഓഫീസ് പ്രയോഗങ്ങള്‍"
 
@@ -193,7 +195,6 @@ msgstr "മറ്റുളളവ"
 
 #: ../desktop-directories/lxde-other.directory.in.h:2
 #, fuzzy
-#| msgid "Applications that did not fit in other categories"
 msgid "Applications that don't fit into other categories"
 msgstr "മറ്റു് വിഭാഗങ്ങളില്‍ ഉള്‍‌പ്പെടാത്ത പ്രയോഗങ്ങള്‍"
 
@@ -215,7 +216,6 @@ msgstr ""
 
 #: ../desktop-directories/lxde-science.directory.in.h:1
 #, fuzzy
-#| msgid "Science & Math"
 msgid "Science"
 msgstr "ശാസ്ത്രവും ഗണിതവും"
 
@@ -229,7 +229,6 @@ msgstr "മുന്‍ഗണനകള്‍"
 
 #: ../desktop-directories/lxde-settings.directory.in.h:2
 #, fuzzy
-#| msgid "Personal preferences"
 msgid "Desktop preferences"
 msgstr "സ്വകാര്യ മുന്‍ഗണനകള്‍"
 
@@ -239,13 +238,11 @@ msgstr "ഭരണം"
 
 #: ../desktop-directories/lxde-settings-system.directory.in.h:2
 #, fuzzy
-#| msgid "Change system-wide settings (affects all users)"
 msgid "System-wide settings (affecting all users)"
 msgstr "സിസ്റ്റം മുഴുവനുളള സജ്ജീകരണങ്ങളില്‍ മാറ്റം വരുത്തുക (എല്ലാ ഉപയോക്താക്കളേയും ബാധിക്കുന്നു)"
 
 #: ../desktop-directories/lxde-system.directory.in.h:2
 #, fuzzy
-#| msgid "System configuration and monitoring"
 msgid "System tools and monitoring"
 msgstr "സിസ്റ്റത്തിന്റെ ക്രമീകരണവും നിരീക്ഷണവും"
 
@@ -300,6 +297,16 @@ msgstr ""
 #: ../desktop-directories/X-UnsortedGames.directory.in.h:1
 msgid "Unsorted Games"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Multimedia menu"
+#~ msgid "Multimedia"
+#~ msgstr "മള്‍ട്ടീമീഡിയ മെനു"
+
+#, fuzzy
+#~| msgid "Graphics applications"
+#~ msgid "Audio and video applications"
+#~ msgstr "ഗ്രാഫിക്സ് പ്രയോഗങ്ങള്‍"
 
 #~ msgid "Sound & Video"
 #~ msgstr "ശബ്ദവും ചലച്ചിത്രവും"

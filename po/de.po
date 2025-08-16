@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-menus HEAD\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2023-07-21 16:07+0200\n"
 "Last-Translator: Ingo Brückl <ib@wupperonline.de>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -26,7 +26,7 @@ msgstr "Kampf"
 
 #: ../desktop-directories/ActionGames.directory.in.h:2
 #, fuzzy
-msgid "Action Games"
+msgid "Action games"
 msgstr "Kampfspile"
 
 #: ../desktop-directories/AdventureGames.directory.in.h:1
@@ -44,6 +44,15 @@ msgstr ""
 #: ../desktop-directories/ArcadeGames.directory.in.h:2
 msgid "Arcade style games"
 msgstr "Arcade-Spiel"
+
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
+msgstr ""
 
 #: ../desktop-directories/BoardGames.directory.in.h:1
 msgid "Board"
@@ -78,12 +87,13 @@ msgid "Logic and puzzle games"
 msgstr "Logik- und Puzzlespiele"
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia"
-msgstr "Multimedia"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Audio and video applications"
-msgstr "Audio- und Videoanwendungen"
+#, fuzzy
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -279,3 +289,9 @@ msgstr "Strategiespiele"
 #, fuzzy
 msgid "Unsorted Games"
 msgstr "Nicht kategorisiert"
+
+#~ msgid "Multimedia"
+#~ msgstr "Multimedia"
+
+#~ msgid "Audio and video applications"
+#~ msgstr "Audio- und Videoanwendungen"

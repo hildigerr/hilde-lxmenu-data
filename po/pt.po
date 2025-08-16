@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: lxmenu-data\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17 15:33-0700\n"
+"POT-Creation-Date: 2025-08-16 11:27-0700\n"
 "PO-Revision-Date: 2023-08-01 16:03+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese\n"
@@ -45,6 +45,15 @@ msgstr ""
 msgid "Arcade style games"
 msgstr ""
 
+#: ../desktop-directories/audio.directory.in.h:1
+msgid "Audio"
+msgstr ""
+
+#: ../desktop-directories/audio.directory.in.h:2
+#, fuzzy
+msgid "Audio applications"
+msgstr ""
+
 #: ../desktop-directories/BoardGames.directory.in.h:1
 msgid "Board"
 msgstr ""
@@ -78,12 +87,13 @@ msgid "Logic and puzzle games"
 msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:1
-msgid "Multimedia"
-msgstr "Multimédia"
+msgid "Video"
+msgstr ""
 
 #: ../desktop-directories/lxde-audio-video.directory.in.h:2
-msgid "Audio and video applications"
-msgstr "Aplicações de áudio e vídeo"
+#, fuzzy
+msgid "Video applications"
+msgstr ""
 
 #: ../desktop-directories/lxde-development.directory.in.h:1
 msgid "Development"
@@ -140,7 +150,8 @@ msgstr "Aparência e Comportamento"
 
 #: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
-msgstr "Definições que controlam a aparência e comportamento do ambiente de trabalho"
+msgstr ""
+"Definições que controlam a aparência e comportamento do ambiente de trabalho"
 
 #: ../desktop-directories/lxde-menu-applications.directory.in.h:1
 msgid "Applications"
@@ -278,6 +289,12 @@ msgstr ""
 #: ../desktop-directories/X-UnsortedGames.directory.in.h:1
 msgid "Unsorted Games"
 msgstr ""
+
+#~ msgid "Multimedia"
+#~ msgstr "Multimédia"
+
+#~ msgid "Audio and video applications"
+#~ msgstr "Aplicações de áudio e vídeo"
 
 #~ msgid "Sound & Video"
 #~ msgstr "Som e vídeo"

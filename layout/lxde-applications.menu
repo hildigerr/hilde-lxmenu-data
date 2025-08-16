@@ -38,6 +38,15 @@
 	</Menu>
 
 	<Menu>
+		<Name>Audio</Name>
+		<Directory>audio.directory</Directory>
+		<Include><And>
+			<Category>Audio</Category>
+			<Not><Category>Video</Category></Not>
+		</And></Include>
+	</Menu>
+
+	<Menu>
 		<Name>Development</Name>
 		<Directory>lxde-development.directory</Directory>
 		<Include>
@@ -180,16 +189,6 @@
 	</Menu>
 
 	<Menu>
-		<Name>Multimedia</Name>
-		<Directory>lxde-audio-video.directory</Directory>
-		<Include>
-			<Category>AudioVideo</Category>
-			<Category>Audio</Category>
-			<Category>Video</Category>
-		</Include>
-	</Menu>
-
-	<Menu>
 		<Name>Office</Name>
 		<Directory>lxde-office.directory</Directory>
 		<Include>
@@ -205,6 +204,18 @@
 			<Category>Science</Category>
 			<Not><Category>Office</Category></Not>
 		</And>
+		</Include>
+	</Menu>
+
+	<Menu>
+		<Name>Video</Name>
+		<Directory>lxde-audio-video.directory</Directory>
+		<Include>
+			<Category>Video</Category>
+			<And>
+				<Category>AudioVideo</Category>
+				<Not><Category>Audio</Category></Not>
+			</And>
 		</Include>
 	</Menu>
 
